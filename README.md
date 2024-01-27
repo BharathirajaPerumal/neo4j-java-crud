@@ -14,5 +14,7 @@ These are the components of Backend Application:
 
 === Endpoints:
 
-Endpoint and payload details available in Postman Collection ()
+Request/Response with sample payload details available in Postman Collection ([Postman Collection][1])
+
+[1]: https://github.com/BharathirajaPerumal/neo4j-java-crud/blob/main/Spring%20Neo4j%20CRUD.postman_collection.json          "Postman Collection"
 
